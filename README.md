@@ -2,4 +2,4 @@
 
 MS Excel Dashboard
 
-![Dashboard](Coffee Sales Dashboard.png)
+![Dashboard](Coffee%20Sales%20Dashboard.png)
